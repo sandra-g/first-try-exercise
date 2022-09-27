@@ -6,6 +6,8 @@ TagManager:
   tags:
   - CherryItem
   - Trap
+  - PineappleItem
+  - MelonItem
   layers:
   - Default
   - TransparentFX
